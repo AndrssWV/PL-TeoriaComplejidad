@@ -66,3 +66,6 @@ Tamano: 100000, Algoritmo: ...
  - Los resultados obtenidos de los diferentes metodos empleados, dan a conocer que los metodos con una complejidad O(n^2), refiriendonos al metodo de Burbuja Mejorado, Seleccion e Insercion, son algoritmos los cuales escalan desafavorablemente conforme aumenta el tamaño del arreglo. Esto lo demuestro los tiempo con crecimiento no lineal de dichos metodos, es especial si hablamos de los arreglos de 50.000 elementos o mas, justamente donde el tiempo de ejecucion se eleva cosiderablemente. Aunque el metodo de Insercion muestre un rendimiento apropiado entorno a arreglos relativamente pequeños, de todas formas se ve afectado frente a entradas de datos masivos.
 
 - Por el contrario, el metodo Shell presenta una complejidad de O(n log n), mantiene a lo largo de la ejecucion un mejor rendimiento bastante notorio en contraste con los demas metodos, incluso si se trata de arreglos grandes hablando de 100.000 elementos. Demonstrando que referirse a la eficiencia de un algoritmo vas mas alla de los teorico, sino a lo practico, de tal forma que se facilite la eleccion de algun algoritmo y su nivel de complejidad conforme al arreglo propuesto.
+
+## 📎Enlace Repositorio Github
+https://github.com/AndrssWV/PL-TeoriaComplejidad
